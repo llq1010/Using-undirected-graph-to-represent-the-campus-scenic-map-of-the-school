@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Widget</class>
+ <widget class="QWidget" name="Widget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1554</width>
+    <height>1400</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>865</width>
+    <height>1400</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>16777215</width>
+    <height>16777215</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Widget</string>
+  </property>
+  <widget class="QLabel" name="label_bg1">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>0</y>
+     <width>850</width>
+     <height>1333</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>850</width>
+     <height>1333</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>850</width>
+     <height>1333</height>
+    </size>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>../../../new_image.jpg</pixmap>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton0">
+   <property name="geometry">
+    <rect>
+     <x>600</x>
+     <y>1220</y>
+     <width>101</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>0校门</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton1">
+   <property name="geometry">
+    <rect>
+     <x>580</x>
+     <y>1010</y>
+     <width>101</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string> 1厚学楼</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton4">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>1125</y>
+     <width>101</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>4大礼堂</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton5">
+   <property name="geometry">
+    <rect>
+     <x>330</x>
+     <y>1070</y>
+     <width>101</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>5南苑</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton6">
+   <property name="geometry">
+    <rect>
+     <x>270</x>
+     <y>970</y>
+     <width>101</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>6西苑</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton9">
+   <property name="geometry">
+    <rect>
+     <x>440</x>
+     <y>915</y>
+     <width>101</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>9东苑</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton2">
+   <property name="geometry">
+    <rect>
+     <x>700</x>
+     <y>895</y>
+     <width>101</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>2体育馆</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton3">
+   <property name="geometry">
+    <rect>
+     <x>690</x>
+     <y>810</y>
+     <width>101</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>3浦江操场</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton10">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>710</y>
+     <width>101</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>10图书馆</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton8">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>580</y>
+     <width>101</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>8镜湖</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton7">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>510</y>
+     <width>101</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>7仁智</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton11">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>440</y>
+     <width>101</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>11亚青</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton12">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>220</y>
+     <width>101</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>12学府苑</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_bg2">
+   <property name="geometry">
+    <rect>
+     <x>870</x>
+     <y>10</y>
+     <width>640</width>
+     <height>569</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>640</width>
+     <height>569</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>640</width>
+     <height>569</height>
+    </size>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>../../../top.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_text">
+   <property name="geometry">
+    <rect>
+     <x>880</x>
+     <y>20</y>
+     <width>620</width>
+     <height>555</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>620</width>
+     <height>555</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>620</width>
+     <height>555</height>
+    </size>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"> 
+font: 75 9pt &quot;Agency FB&quot;;
+font: 9pt &quot;微软雅黑&quot;;
+font: 12pt &quot;Agency FB&quot;; </string>
+   </property>
+   <property name="text">
+    <string>南京工业大学（Nanjing Tech University），简称“南工”，位于江苏省南京市，由国家国防科技工业局、住房和城乡建设部与江苏省人民政府共建，入选国家“2011计划”、“111计划”、“卓越工程师教育培养计划”，是江苏高水平大学建设高峰计划A类建设高校、江苏省重点建设高校、江苏省综合改革试点高校、江苏省人才强校试点高校、国家首批深化创新创业教育改革示范高校、全国高校实践育人创新创业基地、专业学位研究生教育综合改革试点高校、江苏省落实“科技创新改革30条”试点高校。 [1-2] [78]
+学校由原南京化工大学与原南京建筑工程学院于2001年合并组建而成。其一源头可追溯到创建于1902年的三江师范学堂，后历经两江师范学堂、南京高等师范学校、国立东南大学、国立第四中山大学、江苏大学、国立中央大学、国立南京大学、南京大学、南京工学院和南京化工学院等历史时期；另一源头可追溯到同济医工学堂于1915年创建的附设机师科，后历经国立同济大学附设高级职业学校、国立同济大学附设高级工业职业学校、同济高级工业学校、南京建筑工程学校等历史时期。</string>
+   </property>
+   <property name="scaledContents">
+    <bool>false</bool>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>880</x>
+     <y>590</y>
+     <width>111</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_qi">
+   <property name="geometry">
+    <rect>
+     <x>880</x>
+     <y>670</y>
+     <width>141</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 36pt &quot;Agency FB&quot;;
+ </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_zhong">
+   <property name="geometry">
+    <rect>
+     <x>1060</x>
+     <y>670</y>
+     <width>141</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 36pt &quot;Agency FB&quot;;
+ </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_short">
+   <property name="geometry">
+    <rect>
+     <x>1230</x>
+     <y>660</y>
+     <width>151</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 12pt &quot;Agency FB&quot;;</string>
+   </property>
+   <property name="text">
+    <string>输出最短路径</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_all">
+   <property name="geometry">
+    <rect>
+     <x>1390</x>
+     <y>660</y>
+     <width>151</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 12pt &quot;Agency FB&quot;;</string>
+   </property>
+   <property name="text">
+    <string>输出所有路径</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_lujing">
+   <property name="geometry">
+    <rect>
+     <x>880</x>
+     <y>850</y>
+     <width>141</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 36pt &quot;Agency FB&quot;;
+ </string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_deletelj">
+   <property name="geometry">
+    <rect>
+     <x>1230</x>
+     <y>840</y>
+     <width>151</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 12pt &quot;Agency FB&quot;;</string>
+   </property>
+   <property name="text">
+    <string>去除景点路径</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_updatelj">
+   <property name="geometry">
+    <rect>
+     <x>1060</x>
+     <y>840</y>
+     <width>151</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 12pt &quot;Agency FB&quot;;</string>
+   </property>
+   <property name="text">
+    <string>更新景点路径</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_addjd">
+   <property name="geometry">
+    <rect>
+     <x>880</x>
+     <y>1040</y>
+     <width>151</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 12pt &quot;Agency FB&quot;;</string>
+   </property>
+   <property name="text">
+    <string>添加景点</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_deletejd">
+   <property name="geometry">
+    <rect>
+     <x>1060</x>
+     <y>1040</y>
+     <width>151</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 12pt &quot;Agency FB&quot;;</string>
+   </property>
+   <property name="text">
+    <string>删除景点</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_addlj">
+   <property name="geometry">
+    <rect>
+     <x>1390</x>
+     <y>840</y>
+     <width>151</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 12pt &quot;Agency FB&quot;;</string>
+   </property>
+   <property name="text">
+    <string>新增景点路径</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
